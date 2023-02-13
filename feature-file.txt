@@ -2,3 +2,4 @@ Feature text file
 Added a new feature file string
 For testing purposes 
 Add another one string, modify at VS Code
+Add another one string, modify on GitHub
