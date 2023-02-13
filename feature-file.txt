@@ -1,4 +1,4 @@
 Feature text file
 Added a new feature file string
 For testing purposes 
-Add another one string
+Add another one string, modify at VS Code
